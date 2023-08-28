@@ -16,7 +16,7 @@ export default function Home() {
       <div className="bg-white rounded-2xl shadow-2xl flex w-2/3 max-w-4xl">
         <div className="w-3/5 p-5">
           <div className="text-right font-bold">
-            <span className="text-yellow-400">Company</span>Name
+            <span className="text-yellow-400">Metabharata</span>Official
           </div>
           <div className="py-10">
             <h2 className="text-3xl font-bold text-yellow-400 mb-2">Sign in to Account</h2>
